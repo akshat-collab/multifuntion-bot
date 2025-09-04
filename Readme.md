@@ -170,6 +170,4 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
-> **Connect with me on [LinkedIn](https://www.linkedin.com/in/dakshcjain) or [GitHub](https://github.com/dash10107) for collaborations and opportunities!**
 
----
